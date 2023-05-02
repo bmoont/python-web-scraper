@@ -1,4 +1,4 @@
-# python-web-scraper
+# Python-Web-Scraper
 Searches Twitter and Gumtree for required information. Currently set up to search for office space.
 
 You will need the required keys to be able to use this to its full potential. These are saved as .json files. The keys are:
